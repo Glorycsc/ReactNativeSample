@@ -10,7 +10,7 @@ import {
   LocallyStoredList,
   APIFetchedList,
   DetailView,
-} from '_screens';
+} from '../screens';
 import {createStackNavigator} from 'react-navigation-stack';
 
 const MainStackNavigator = createStackNavigator({

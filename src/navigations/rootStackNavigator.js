@@ -6,7 +6,7 @@
 'use strict';
 
 import {createStackNavigator} from 'react-navigation-stack';
-import MainStackNavigator from './mainStackNavigator';
+import MainStackNavigator from './MainStackNavigator';
 import AboutScreenNavigation from './aboutStackNavigator';
 
 const RootStackNavigator = createStackNavigator(
